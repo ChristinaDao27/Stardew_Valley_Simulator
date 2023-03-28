@@ -1,0 +1,591 @@
+Welcome to Stardew Valley Simulator
+1. Add Item to Farm
+2. Add Two of Each Item to Farm
+3. Simulate Time
+4. Farm Status
+5. Quit
+2
+New Animal added to the farm.
+New Animal added to the farm.
+New Vegetable added to the farm.
+New Vegetable added to the farm.
+New Tree added to the farm.
+New Tree added to the farm.
+1. Add Item to Farm
+2. Add Two of Each Item to Farm
+3. Simulate Time
+4. Farm Status
+5. Quit
+3
+How many seasons to simulate?
+61
+SEASON: 1
+**** Farm Status ****
+Food: 4
+Money: 0
+Season: 1
+Agricultural Items: 
+Animal | Chicken | Not Harvestable | Infant | Fed
+Animal | Chicken | Not Harvestable | Infant | Fed
+Vegetable | Not Harvestable | Medium
+Vegetable | Not Harvestable | Medium
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 2
+**** Farm Status ****
+Food: 2
+Money: 0
+Season: 2
+Agricultural Items: 
+Animal | Chicken | Not Harvestable | Juvenile | Fed
+Animal | Chicken | Not Harvestable | Juvenile | Fed
+Vegetable | Not Harvestable | Fully Mature
+Vegetable | Not Harvestable | Fully Mature
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 3
+The Vegetable was harvested
+The Vegetable was harvested
+**** Farm Status ****
+Food: 4
+Money: 0
+Season: 3
+Agricultural Items: 
+Animal | Chicken | Not Harvestable | Adult | Fed
+Animal | Chicken | Not Harvestable | Adult | Fed
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 4
+The Animal was harvested
+The Animal was harvested
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 4
+Agricultural Items: 
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Sapling | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 5
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 5
+Agricultural Items: 
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 6
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 6
+Agricultural Items: 
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 7
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 7
+Agricultural Items: 
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 8
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 8
+Agricultural Items: 
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Pole | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 9
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 9
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 10
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 10
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 11
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 11
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 12
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 12
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Not Fruiting | Fruit Count: 0
+
+SEASON: 13
+**** Farm Status ****
+Food: 2
+Money: 6
+Season: 13
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 14
+**** Farm Status ****
+Food: 4
+Money: 6
+Season: 14
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 15
+**** Farm Status ****
+Food: 6
+Money: 6
+Season: 15
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 16
+**** Farm Status ****
+Food: 8
+Money: 6
+Season: 16
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 17
+**** Farm Status ****
+Food: 10
+Money: 6
+Season: 17
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 18
+**** Farm Status ****
+Food: 12
+Money: 6
+Season: 18
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 19
+**** Farm Status ****
+Food: 14
+Money: 6
+Season: 19
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 20
+**** Farm Status ****
+Food: 16
+Money: 6
+Season: 20
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 21
+**** Farm Status ****
+Food: 18
+Money: 6
+Season: 21
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 22
+**** Farm Status ****
+Food: 20
+Money: 6
+Season: 22
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 23
+**** Farm Status ****
+Food: 22
+Money: 6
+Season: 23
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 24
+**** Farm Status ****
+Food: 24
+Money: 6
+Season: 24
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 25
+**** Farm Status ****
+Food: 26
+Money: 6
+Season: 25
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 26
+**** Farm Status ****
+Food: 28
+Money: 6
+Season: 26
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 27
+**** Farm Status ****
+Food: 30
+Money: 6
+Season: 27
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 28
+**** Farm Status ****
+Food: 32
+Money: 6
+Season: 28
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 29
+**** Farm Status ****
+Food: 34
+Money: 6
+Season: 29
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 30
+**** Farm Status ****
+Food: 36
+Money: 6
+Season: 30
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 31
+**** Farm Status ****
+Food: 38
+Money: 6
+Season: 31
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 32
+**** Farm Status ****
+Food: 40
+Money: 6
+Season: 32
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 33
+**** Farm Status ****
+Food: 42
+Money: 6
+Season: 33
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 34
+**** Farm Status ****
+Food: 44
+Money: 6
+Season: 34
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 35
+**** Farm Status ****
+Food: 46
+Money: 6
+Season: 35
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 36
+**** Farm Status ****
+Food: 48
+Money: 6
+Season: 36
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 37
+**** Farm Status ****
+Food: 50
+Money: 6
+Season: 37
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 38
+**** Farm Status ****
+Food: 52
+Money: 6
+Season: 38
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 39
+**** Farm Status ****
+Food: 54
+Money: 6
+Season: 39
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 40
+**** Farm Status ****
+Food: 56
+Money: 6
+Season: 40
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 41
+**** Farm Status ****
+Food: 58
+Money: 6
+Season: 41
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 42
+**** Farm Status ****
+Food: 60
+Money: 6
+Season: 42
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 43
+**** Farm Status ****
+Food: 62
+Money: 6
+Season: 43
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 44
+**** Farm Status ****
+Food: 64
+Money: 6
+Season: 44
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 45
+**** Farm Status ****
+Food: 66
+Money: 6
+Season: 45
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 46
+**** Farm Status ****
+Food: 68
+Money: 6
+Season: 46
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 47
+**** Farm Status ****
+Food: 70
+Money: 6
+Season: 47
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 48
+**** Farm Status ****
+Food: 72
+Money: 6
+Season: 48
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 49
+**** Farm Status ****
+Food: 74
+Money: 6
+Season: 49
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 50
+**** Farm Status ****
+Food: 76
+Money: 6
+Season: 50
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 51
+**** Farm Status ****
+Food: 78
+Money: 6
+Season: 51
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 52
+**** Farm Status ****
+Food: 80
+Money: 6
+Season: 52
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 53
+**** Farm Status ****
+Food: 82
+Money: 6
+Season: 53
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 54
+**** Farm Status ****
+Food: 84
+Money: 6
+Season: 54
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 55
+**** Farm Status ****
+Food: 86
+Money: 6
+Season: 55
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 56
+**** Farm Status ****
+Food: 88
+Money: 6
+Season: 56
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 57
+**** Farm Status ****
+Food: 90
+Money: 6
+Season: 57
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 58
+**** Farm Status ****
+Food: 92
+Money: 6
+Season: 58
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 59
+**** Farm Status ****
+Food: 94
+Money: 6
+Season: 59
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 60
+**** Farm Status ****
+Food: 96
+Money: 6
+Season: 60
+Agricultural Items: 
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+Tree  | Mature | Not Harvestable | Fruiting | Fruit Count: 0
+
+SEASON: 61
+The Tree was harvested
+The Tree was harvested
+**** Farm Status ****
+Food: 98
+Money: 6
+Season: 61
+Agricultural Items: 
+None
+1. Add Item to Farm
+2. Add Two of Each Item to Farm
+3. Simulate Time
+4. Farm Status
+5. Quit
+5
+Thank you for simulating Stardew Valley!
